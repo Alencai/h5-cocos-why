@@ -17,16 +17,54 @@ cc.Class({
     // 2. 可通过 widget.updateAlignment 直接刷新尺寸
 
     onLoad() {
+        cc.log('s1_life  onLoad');
         this.setWidget(this.layer1, 20);
         this.follow(this.layer2, this.background, 30);
         this.follow(this.layer4, this.layer1, 50);
     },
+
+    onStart() { 
+        cc.log('s1_life  onStart');
+    },
+
+    update(dt) {
+        this.logCnt('s1_life  update');
+    },
     
     lateUpdate(dt) {
+        this.logCnt('s1_life  lateUpdate');
         if (!this._isInit) {
             this._isInit = true;
             this.follow(this.layer3, this.background, 40);
             this.follow(this.layer5, this.layer1, 60);
+        }
+    },
+
+    onDestroy() { 
+        cc.log('s1_life  onDestroy');
+    },
+
+    onDisable() { 
+        cc.log('s1_life  onDisable');
+    },
+    onEnable() { 
+        cc.log('s1_life  onEnable');
+    },
+
+    onRestore() { 
+        cc.log('s1_life  onRestore');
+    },
+    onFocusInEditor() { 
+        cc.log('s1_life  onFocusInEditor');
+    },
+    onLostFocusInEditor() { 
+        cc.log('s1_life  onLostFocusInEditor');
+    },
+
+    logCnt(str) {
+        this._updateCount = (this._updateCount || 0) + 1;
+        if (this._updateCount < 10) {
+            cc.log(str + ' ' + this._updateCount);
         }
     },
 

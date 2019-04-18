@@ -11,13 +11,15 @@ cc.Class({
     },
 
     onLoad() {
-        this.item && (this.item.opacity = 0);
+        this.item.opacity = 0;
     },
 
     update(dt) {
         if (!this._isInit) {
             this._isInit = true;
-            this.addItem('s1_life', '生命周期1');
+            this.addItem('s1_life', '生命周期');
+            this.addItem('s2_MotionStreak', '拖尾效果');
+            this.addItem('s3_timescale', '时间缩放');
         }
     },
 

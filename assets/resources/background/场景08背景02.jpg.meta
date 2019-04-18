@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "286e2599-e9f1-44b9-aadb-3dcca5e90cb7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "场景08背景02": {
+      "ver": "1.0.3",
+      "uuid": "92df4c54-17bf-4888-ab7c-6c6c6a714b1b",
+      "rawTextureUuid": "286e2599-e9f1-44b9-aadb-3dcca5e90cb7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 540,
+      "rawWidth": 1920,
+      "rawHeight": 540,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
