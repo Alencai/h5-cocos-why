@@ -1,0 +1,90 @@
+
+eft_seal_light.png
+size: 953,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+输出/100
+  rotate: true
+  xy: 2, 2
+  size: 132, 189
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/101
+  rotate: true
+  xy: 193, 3
+  size: 132, 189
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/102
+  rotate: false
+  xy: 270, 138
+  size: 132, 190
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/103
+  rotate: false
+  xy: 404, 138
+  size: 132, 190
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/104
+  rotate: false
+  xy: 136, 137
+  size: 132, 191
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/105
+  rotate: false
+  xy: 538, 138
+  size: 132, 190
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/106
+  rotate: false
+  xy: 672, 138
+  size: 132, 190
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/107
+  rotate: true
+  xy: 384, 4
+  size: 132, 188
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/108
+  rotate: true
+  xy: 574, 4
+  size: 132, 188
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/109
+  rotate: false
+  xy: 806, 138
+  size: 132, 190
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/110
+  rotate: false
+  xy: 2, 136
+  size: 132, 192
+  orig: 150, 200
+  offset: 4, 0
+  index: -1
+输出/111
+  rotate: true
+  xy: 764, 4
+  size: 132, 187
+  orig: 150, 200
+  offset: 4, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+eft_servant_upgrade_lose.png
+size: 494,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shibai/sb01
+  rotate: false
+  xy: 436, 114
+  size: 56, 61
+  orig: 100, 100
+  offset: 21, 17
+  index: -1
+shibai/sb02
+  rotate: false
+  xy: 2, 75
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shibai/sb03
+  rotate: false
+  xy: 104, 75
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shibai/sb04
+  rotate: false
+  xy: 206, 75
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shibai/sb05
+  rotate: true
+  xy: 378, 105
+  size: 70, 56
+  orig: 100, 100
+  offset: 15, 18
+  index: -1
+shibai/sb06
+  rotate: true
+  xy: 370, 33
+  size: 70, 66
+  orig: 100, 100
+  offset: 15, 7
+  index: -1
+shibai/sb07
+  rotate: true
+  xy: 308, 105
+  size: 70, 68
+  orig: 100, 100
+  offset: 15, 6
+  index: -1
+shibai/sb08
+  rotate: true
+  xy: 299, 3
+  size: 70, 69
+  orig: 100, 100
+  offset: 15, 5
+  index: -1
+shibai/sb09
+  rotate: false
+  xy: 152, 2
+  size: 70, 71
+  orig: 100, 100
+  offset: 15, 3
+  index: -1
+shibai/sb10
+  rotate: true
+  xy: 2, 3
+  size: 70, 73
+  orig: 100, 100
+  offset: 15, 2
+  index: -1
+shibai/sb11
+  rotate: true
+  xy: 77, 3
+  size: 70, 73
+  orig: 100, 100
+  offset: 15, 1
+  index: -1
+shibai/sb12
+  rotate: true
+  xy: 224, 5
+  size: 68, 73
+  orig: 100, 100
+  offset: 16, 0
+  index: -1

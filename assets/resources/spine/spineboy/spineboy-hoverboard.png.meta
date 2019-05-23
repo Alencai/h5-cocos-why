@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "faabfd17-8fee-47f2-a7ac-81d413a9ed40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "spineboy-hoverboard": {
+      "ver": "1.0.3",
+      "uuid": "d3769c93-5650-42e3-8bdf-d29ea34a2d94",
+      "rawTextureUuid": "faabfd17-8fee-47f2-a7ac-81d413a9ed40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 4.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2041,
+      "height": 499,
+      "rawWidth": 2048,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

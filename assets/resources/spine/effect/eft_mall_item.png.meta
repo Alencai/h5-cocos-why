@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "01d8a747-4062-4520-9979-0a2949df43a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "eft_mall_item": {
+      "ver": "1.0.3",
+      "uuid": "45e4bcbd-9e10-43d2-b5c6-c8ebb4d16794",
+      "rawTextureUuid": "01d8a747-4062-4520-9979-0a2949df43a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -115.5,
+      "offsetY": 82,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 277,
+      "height": 344,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

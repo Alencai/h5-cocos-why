@@ -1,0 +1,76 @@
+
+eft_mall_item.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+最终版/新建文件夹/100
+  rotate: false
+  xy: 72, 141
+  size: 66, 67
+  orig: 68, 68
+  offset: 2, 0
+  index: -1
+最终版/新建文件夹/101
+  rotate: true
+  xy: 212, 280
+  size: 66, 67
+  orig: 68, 68
+  offset: 2, 0
+  index: -1
+最终版/新建文件夹/102
+  rotate: false
+  xy: 72, 210
+  size: 67, 67
+  orig: 68, 68
+  offset: 1, 0
+  index: -1
+最终版/新建文件夹/103
+  rotate: false
+  xy: 2, 279
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+最终版/新建文件夹/104
+  rotate: false
+  xy: 2, 210
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+最终版/新建文件夹/105
+  rotate: false
+  xy: 142, 280
+  size: 68, 66
+  orig: 68, 68
+  offset: 0, 1
+  index: -1
+最终版/新建文件夹/106
+  rotate: true
+  xy: 2, 2
+  size: 68, 65
+  orig: 68, 68
+  offset: 0, 1
+  index: -1
+最终版/新建文件夹/107
+  rotate: false
+  xy: 72, 279
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+最终版/新建文件夹/108
+  rotate: false
+  xy: 2, 141
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+最终版/新建文件夹/109
+  rotate: false
+  xy: 2, 72
+  size: 67, 67
+  orig: 68, 68
+  offset: 1, 0
+  index: -1

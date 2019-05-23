@@ -1,0 +1,90 @@
+
+eft_servant_upgrade_success.png
+size: 447,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengong/sj01
+  rotate: false
+  xy: 389, 44
+  size: 56, 60
+  orig: 100, 100
+  offset: 21, 18
+  index: -1
+chengong/sj02
+  rotate: false
+  xy: 2, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+chengong/sj03
+  rotate: false
+  xy: 104, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+chengong/sj04
+  rotate: false
+  xy: 206, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+chengong/sj05
+  rotate: false
+  xy: 325, 37
+  size: 62, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+chengong/sj06
+  rotate: false
+  xy: 261, 9
+  size: 62, 65
+  orig: 100, 100
+  offset: 18, 19
+  index: -1
+chengong/sj07
+  rotate: false
+  xy: 197, 8
+  size: 62, 66
+  orig: 100, 100
+  offset: 18, 19
+  index: -1
+chengong/sj08
+  rotate: false
+  xy: 132, 6
+  size: 63, 68
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+chengong/sj09
+  rotate: false
+  xy: 372, 106
+  size: 63, 70
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+chengong/sj10
+  rotate: false
+  xy: 67, 3
+  size: 63, 71
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+chengong/sj11
+  rotate: false
+  xy: 2, 2
+  size: 63, 72
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+chengong/sj12
+  rotate: false
+  xy: 308, 103
+  size: 62, 73
+  orig: 100, 100
+  offset: 19, 19
+  index: -1

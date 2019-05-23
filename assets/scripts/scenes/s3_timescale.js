@@ -5,6 +5,7 @@ cc.Class({
     properties: {
         item1: cc.Node,
         item2: cc.Node,
+        skeleton: dragonBones.ArmatureDisplay,
     },
 
     onLoad() {
@@ -13,10 +14,8 @@ cc.Class({
 
     reset() {
         this.item1.x = -200;
-        this.item1.y = 50;
 
         this.item2.x = -200;
-        this.item2.y = -50;
         this.item2.stopAllActions();
         this.item2.runAction(cc.moveBy(5, 600, 0));
     },
@@ -29,7 +28,8 @@ cc.Class({
     },
 
     evtClick(evt) {
-        this.timeScale = this.timeScale == 1 ? 0.2 : 1;
+        this.timeScale = this.timeScale == 0.2 ? 1 : 0.2;
+        // 可以使runAction和dragonbones缩放，但不会缩放update(dt)
         cc.director.getScheduler().setTimeScale(this.timeScale);
         this.reset();
     },
