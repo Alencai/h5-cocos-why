@@ -34,8 +34,7 @@ cc.Class({
             this.succUpdate();
             return;
         }
-        // cc.director.loadScene('main');
-        cc.game.end();
+        cc.director.loadScene('main');
     },
 
     _resetInfo() {
