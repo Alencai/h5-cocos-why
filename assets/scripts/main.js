@@ -12,7 +12,6 @@ cc.Class({
 
     onLoad() {
         this.item.opacity = 0;
-        cc.log(require("test1"));
     },
 
     update(dt) {
